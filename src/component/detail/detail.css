@@ -1,0 +1,9 @@
+.detail button{
+    width: auto;
+    color: black;
+    cursor: pointer;
+    background-color: rgb(216, 207, 207);
+}
+/* button:hover{
+    
+} */

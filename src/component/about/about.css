@@ -1,0 +1,15 @@
+.info{
+    text-align: left;
+    padding-left: 2rem;
+}
+.info .expe{
+    list-style: none;
+    border-left: dotted grey;
+    padding-left: 1rem;
+}
+.info .expe p{
+    font-weight: 600;
+}
+.info .expe h5{
+    color:green
+}
